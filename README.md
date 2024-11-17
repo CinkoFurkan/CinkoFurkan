@@ -1,4 +1,4 @@
-<h1 align="center">Hey there It is me Cinko</h1>
+<h1 align="center">Hey there, It is me Cinko</h1>
 
 ###
 <div align="center">
@@ -15,7 +15,9 @@
 
 ###
 
-<h3 align="left"> I'm a Computer Science student, aspiring Data Scientist, and passionate about Artificial Intelligence and Software Engineering. I love exploring new technologies and solving complex problems.</h3>
+<h4 align="left">
+  I am a Computer Science student with a strong passion for Data Science, Artificial Intelligence, and Software Engineering. Currently, I am focused on developing websites using Django while continuing to expand my knowledge in machine learning and deep learning. I am actively learning and applying these technologies to solve complex problems, with the goal of advancing my skills in AI and data science. I am excited about leveraging my expertise to contribute to innovative solutions and help shape the future of technology.
+</h4>
 
 ###
 
