@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Furkan Çinko
 
+![Data Science & AI](https://www.link-to-your-image.com/data-science-ai-image.jpg)
+
 Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Data Scientist**, and passionate about **Artificial Intelligence** and **Software Engineering**. I love exploring new technologies and solving complex problems.
 
 ---
@@ -30,7 +32,15 @@ Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Dat
 
 ### 📈 **GitHub Stats**
 
-![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true)
+<details>
+  <summary><h2> <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)
+  </div>
+</details>
 
 ---
 
@@ -38,6 +48,16 @@ Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Dat
 - 📧 Email: [furkan.cinko@domain.com](mailto:furkan.cinko@domain.com)
 - 🌐 LinkedIn: [linkedin.com/in/furkancinko](https://www.linkedin.com/in/furkancinko/)
 - 🐦 Twitter: [@furkan_cinko](https://twitter.com/furkan_cinko)
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:furkan.cinko@domain.com">
+      <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 
 ---
 
