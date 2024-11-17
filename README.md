@@ -61,11 +61,15 @@
 
 <h2 align="center">My Coding Journey</h2>
 <div align="center">
-  <svg width="100" height="100">
+  <!-- Animated Circle representing coding progress -->
+  <svg width="200" height="100">
     <circle cx="20" cy="50" r="10" fill="blue">
-      <animate attributeName="cx" from="20" to="80" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" from="20" to="180" dur="5s" keyTimes="0;1" repeatCount="indefinite"/>
     </circle>
+    <text x="20" y="40" fill="black" font-size="20">Start</text>
+    <text x="180" y="40" fill="black" font-size="20">End</text>
   </svg>
 </div>
+
 
 ###
