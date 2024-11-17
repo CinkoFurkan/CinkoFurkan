@@ -2,11 +2,8 @@
 
 Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Data Scientist**, and passionate about **Artificial Intelligence** and **Software Engineering**. I love exploring new technologies and solving complex problems.
 
----
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
 
-### 📈 **GitHub Stats**
-
-<details>
   <summary><h2> <img align="center" src="https://github.com/CinkoFurkan/CinkoFurkan/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CinkoFurkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -14,7 +11,6 @@ Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Dat
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CinkoFurkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
     ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CinkoFurkan&theme=tokyo-night)
   </div>
-</details>
 
 ---
 
