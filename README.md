@@ -1,8 +1,20 @@
 # 👋 Hi there, I'm Furkan Çinko
 
-![Data Science & AI](https://www.link-to-your-image.com/data-science-ai-image.jpg)
-
 Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Data Scientist**, and passionate about **Artificial Intelligence** and **Software Engineering**. I love exploring new technologies and solving complex problems.
+
+---
+
+### 📈 **GitHub Stats**
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/CinkoFurkan/CinkoFurkan/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=CinkoFurkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=CinkoFurkan&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CinkoFurkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=CinkoFurkan&theme=tokyo-night)
+  </div>
+</details>
 
 ---
 
@@ -30,31 +42,25 @@ Welcome to my GitHub profile! I'm a **Computer Science student**, aspiring **Dat
 
 ---
 
-### 📈 **GitHub Stats**
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)
-  </div>
-</details>
-
----
-
 ### 💬 **Connect with Me**
-- 📧 Email: [furkan.cinko@domain.com](mailto:furkan.cinko@domain.com)
-- 🌐 LinkedIn: [linkedin.com/in/furkancinko](https://www.linkedin.com/in/furkancinko/)
-- 🐦 Twitter: [@furkan_cinko](https://twitter.com/furkan_cinko)
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkancinko/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:furkan.cinko@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/cinkos.code/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
+  <summary><h2> <img align="center" src="https://github.com/CinkoFurkan/CinkoFurkan/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p align="center">
     <i>You can reach out to me via</i>
-    <a href="mailto:furkan.cinko@domain.com">
-      <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/Gmail.gif" width="100"/>
+    <a href="mailto:furkan.cinko@outlook.com">
+      <img align="center" src="https://github.com/CinkoFurkan/CinkoFurkan/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
 </details>
