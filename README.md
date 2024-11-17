@@ -56,20 +56,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CinkoFurkan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<h2 align="center">My Coding Journey</h2>
-<div align="center">
-  <!-- Animated Circle representing coding progress -->
-  <svg width="200" height="100">
-    <circle cx="20" cy="50" r="10" fill="blue">
-      <animate attributeName="cx" from="20" to="180" dur="5s" keyTimes="0;1" repeatCount="indefinite"/>
-    </circle>
-    <text x="20" y="40" fill="black" font-size="20">Start</text>
-    <text x="180" y="40" fill="black" font-size="20">End</text>
-  </svg>
-</div>
-
-
 ###
